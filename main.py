@@ -11,7 +11,6 @@ from validators import Validator
 
 
 class FinanceManagerApp:
-
     def __init__(self):
         self.households = []
         self.current_household = None
